@@ -1,0 +1,18 @@
+---
+doc_id: customer_support_playbook
+title: Customer Support Playbook & Escalation Procedures
+audience: seller
+category: support-sop
+language: en
+source_url: https://internal.ecom.org/support-playbook
+retrieved_at: 2026-09-18
+document_version: 1.2
+---
+
+# Customer Support Playbook & Escalation Procedures
+
+1. Triage customer queries based on urgency (billing disputes > defective items > general inquiries).
+2. For return requests, check delivery timestamp. If within the standard policy window (15 days for Shopee/30 days for LazMall), provide the digital return label immediately.
+3. If the item is defective, ask the buyer for clear pictures or an unboxing video showing the shipping label and defect.
+4. Escalate unresolvable seller disputes to the Tier-2 Resolution Team within 24 hours.
+
